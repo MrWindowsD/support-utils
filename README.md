@@ -1,5 +1,11 @@
 # Support Utils v1.0b
 
+![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue)
+![Language](https://img.shields.io/badge/language-Batch%20%7C%20VBS-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-v1.0b-yellow)
+![Purpose](https://img.shields.io/badge/usecase-L1%20Support%20Tools-critical)
+
 **Пакет скриптов для диагностики, автоматизации и быстрого восстановления системы.**  
 Создан для задач технической поддержки, начинающих системных администраторов и продвинутых пользователей Windows.
 
