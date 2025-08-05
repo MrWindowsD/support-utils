@@ -1,0 +1,34 @@
+Policies Set For Log File D:\Office\logs\2\OfficeInstall.log
+======================================================
+
+Machine Policies
+======================================================
+AllowLockDownBrowse      : ?
+AllowLockdownMedia       : ?
+AllowLockdownPatch       : 0
+AlwaysInstallElevated    : 0
+Debug                    : 0
+DisableBrowse            : ?
+DisableMSI               : 0
+DisablePatch             : 0
+DisableRollback          : 0
+DisableUserInstalls      : 0
+EnableAdminTSRemote      : ?
+EnableUserControl        : ?
+LimitSystemRestoreCheckpointing: 0
+Logging                  : ?
+SafeForScripting         : ?
+TransformsSecure         : 0
+DisableLUAPatching       : 0
+DisablePatchUninstall    : ?
+DisableFlyWeightPatching : 0
+EnforceUpgradeComponentRules: ?
+MaxPatchCacheSize        : ?
+
+User Policies
+======================================================
+AlwaysInstallElevated    : 0
+DisableMedia             : ?
+DisableRollback          : 0
+SearchOrder              : 0
+TransformsAtSource       : 0

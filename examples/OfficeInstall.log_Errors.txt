@@ -1,0 +1,68 @@
+Errors Found For Log File D:\Office\logs\2\OfficeInstall.log
+======================================================
+
+4 Non-Ignored Errors
+======================================================
+-------------------------------------------------
+Believed Error Found:
+
+Error 1713. Setup cannot install one of the required products for Microsoft Office Professional Plus 2010.  
+MSI (s) (00!F8) [20:06:45:443]: Product: Microsoft Office Professional Plus 2010 -- Error 1713. Setup cannot install one of the required products for Microsoft Office Professional Plus 2010.  
+
+CustomAction AbortMsi returned actual error code 1603 (note this may not be 100% accurate if translation happened inside sandbox)
+Action ended 20:06:45: AbortMsi. Return value 3.
+
+
+Proposed Solution To Error:
+  A standard action or custom action caused the failure.
+
+-------------------------------------------------
+Believed Error Found:
+Error 1713. Setup cannot install one of the required products for Microsoft Office Professional Plus 2010.  
+MSI (s) (00!F8) [20:06:45:443]: Product: Microsoft Office Professional Plus 2010 -- Error 1713. Setup cannot install one of the required products for Microsoft Office Professional Plus 2010.  
+
+CustomAction AbortMsi returned actual error code 1603 (note this may not be 100% accurate if translation happened inside sandbox)
+Action ended 20:06:45: AbortMsi. Return value 3.
+Action ended 20:06:45: INSTALL. Return value 3.
+
+
+Proposed Solution To Error:
+  A standard action or custom action caused the failure.
+
+-------------------------------------------------
+Believed Error Found:
+MSI (s) (00:98) [20:06:45:521]: Restoring environment variables
+MSI (s) (00:98) [20:06:45:521]: Destroying RemoteAPI object.
+MSI (s) (00:B4) [20:06:45:521]: Custom Action Manager thread ending.
+MSI (c) (04:DC) [20:06:45:537]: Back from server. Return value: 1603
+MSI (c) (04:DC) [20:06:45:537]: Decrementing counter to disable shutdown. If counter >= 0, shutdown will be denied.  Counter after decrement: -1
+Action ended 20:06:45: INSTALL. Return value 3.
+
+
+Proposed Solution To Error:
+  A standard action or custom action caused the failure.
+
+-------------------------------------------------
+Believed Error Found:
+
+MSI (c) (04:DC) [20:06:45:552]: Установщик Windows выполнил установку продукта. Продукт: Microsoft Office Professional Plus 2010. Версия: 14.0.4763.1000. Язык: 0. Изготовитель: Microsoft Corporation. Установка завершена с состоянием: 1603.
+
+MSI (c) (04:DC) [20:06:45:568]: Grabbed execution mutex.
+MSI (c) (04:DC) [20:06:45:568]: Cleaning up uninstalled install packages, if any exist
+MSI (c) (04:DC) [20:06:45:568]: MainEngineThread is returning 1603
+
+
+Proposed Solution To Error:
+  В процессе установки произошла неисправимая ошибка.
+
+
+
+0 Ignored Errors
+======================================================
+-------------------------------------------------
+Believed Error Found:
+No Error Found!
+
+Proposed Solution To Error:
+  No Solution Needed!
+

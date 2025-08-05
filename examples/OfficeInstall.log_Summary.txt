@@ -1,0 +1,31 @@
+Summary for log file D:\Office\logs\2\OfficeInstall.log
+======================================================
+MSI Version : 5.0.7601
+
+Date & Time : 
+
+Command Line: 
+
+User        : (none)
+
+Admin Rights: Yes
+
+Client Priviledge Details: MSI (c) (04:DC) [20:06:25:616]: Running product '{90140000-0011-0000-1000-0000000FF1CE}' with elevated privileges: Product is assigned.
+
+Server Priviledge Details: MSI (s) (00:80) [20:06:33:447]: Product installation will be elevated because user is admin and product is being installed per-machine.
+MSI (s) (00:80) [20:06:33:447]: Running product '{90140000-0011-0000-1000-0000000FF1CE}' with elevated privileges: Product is assigned.
+
+======================================================
+Believed Error Found:
+
+
+Error 1713. Setup cannot install one of the required products for Microsoft Office Professional Plus 2010.  
+MSI (s) (00!F8) [20:06:45:443]: Product: Microsoft Office Professional Plus 2010 -- Error 1713. Setup cannot install one of the required products for Microsoft Office Professional Plus 2010.  
+
+CustomAction AbortMsi returned actual error code 1603 (note this may not be 100% accurate if translation happened inside sandbox)
+Action ended 20:06:45: AbortMsi. Return value 3.
+
+
+Proposed Solution To Error:
+  A standard action or custom action caused the failure.
+
